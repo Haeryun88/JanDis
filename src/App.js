@@ -1,11 +1,11 @@
-import React from "react";
-import "./style.css";
+import React from 'react';
+import D20221103 from './Component/D20221103.js';
 
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <h1>엥</h1>
+      <D20221103 />
     </div>
   );
 }
