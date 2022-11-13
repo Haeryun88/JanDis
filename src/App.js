@@ -6,6 +6,7 @@ import D20221105 from './Component/D20221105.js';
 import D20221107 from './Component/D20221107.js';
 import D20221108 from './Component/D20221108.js';
 import D20221112 from './Component/D20221112.js';
+import D20221114 from './Component/D20221114.js';
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
       <D20221107 />
       <D20221108 />
       <D20221112 />
+      <D20221114 />
     </div>
   );
 }
